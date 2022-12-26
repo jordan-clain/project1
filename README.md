@@ -1,1 +1,1 @@
-# project1
+# sample project for day 1
